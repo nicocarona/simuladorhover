@@ -1,0 +1,38 @@
+{
+  "name": "Prefectura Aérea - Simulador Táctico Hover",
+  "short_name": "AeroHover Carabineros",
+  "description": "Simulador de vuelo estacionario táctico con cíclico MEMS para pilotos de la Prefectura Aérea de Carabineros de Chile.",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait-primary",
+  "background_color": "#07100a",
+  "theme_color": "#0c1510",
+  "lang": "es-CL",
+  "categories": [
+    "simulation",
+    "education",
+    "utilities"
+  ],
+  "icons": [
+    {
+      "src": "icons/icon-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "icons/icon-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "icons/apple-touch-icon.png",
+      "sizes": "180x180",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ],
+  "prefer_related_applications": false
+}
